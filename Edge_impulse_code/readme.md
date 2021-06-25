@@ -1,0 +1,1 @@
+Run the script to flash the firmware. 
